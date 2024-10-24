@@ -146,10 +146,10 @@
 
         // In the Main method below, call each of your methods to test them.
         // Use various test cases to ensure they work as expected.        
-        static void Main(string[] args)
+        public static void Main (string[] args)
         {
             // 1. PrintNumbers1000();
-            // 2. PrintNubersbyThree();
+            // 2. PrintNumbersbyThree();
             // 3. TwoNumbersSame(int numOne, int numTwo)
             // 4. EvenOrOdd(int number)
             // 5. IsPositive(int number)
